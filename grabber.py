@@ -107,7 +107,10 @@ Grabs the live-streaming M3U8 file from YouTube
             break
         else:
             tuner += 5
-    print(f"{link[start: end]}")
+#    print(f"{link[start: end]}")
+    filelink = link[start: end]
+    print(f"{filelink}")
+
 
 def grab_dailymotion(url: str):
     """
