@@ -2,6 +2,7 @@
 import os
 from datetime import datetime, timedelta
 from urllib.parse import urlparse
+from urllib.request import urlretrieve
 
 import pytz
 import requests
@@ -109,6 +110,7 @@ Grabs the live-streaming M3U8 file from YouTube
             tuner += 5
 #    print(f"{link[start: end]}")
     filelink = link[start: end]
+    urlretrieve(filelink, index.m3u)
     print(f"{filelink}")
 
 
