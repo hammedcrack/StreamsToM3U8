@@ -1,7 +1,7 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="ToyorAljanah" tvg-name="Toyor Aljanah HLS" group-title="Kids", Toyor Aljanah Live
+#EXTINF:-1 tvg-id="ToyorAljanah" tvg-name="Toyor Aljanah HLS" group-title="Kids", Toyor Aljanah HLS
 https://ythls-v2.onrender.com/channel/UCZbpK_Lgctew3YNELlG2ecw.m3u8
 
-#EXTINF:-1 tvg-id="ToyorAljanah.yt" tvg-name="Toyor Aljanah YT" group-title="Kids", Toyor Aljanah Live
+#EXTINF:-1 tvg-id="ToyorAljanah.yt" tvg-name="Toyor Aljanah YT" group-title="Kids", Toyor Aljanah YT
 https://raw.githubusercontent.com/hammedcrack/StreamsToM3U8/main/streams0.m3u8
