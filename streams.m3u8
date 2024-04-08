@@ -1,7 +1,1 @@
-#EXTM3U
-
-#EXTINF:-1 tvg-id="ToyorAljanah" tvg-name="Toyor Aljanah HLS" group-title="Kids", Toyor Aljanah HLS
-https://ythls-v2.onrender.com/channel/UCZbpK_Lgctew3YNELlG2ecw.m3u8
-
-#EXTINF:-1 tvg-id="ToyorAljanah.yt" tvg-name="Toyor Aljanah YT" group-title="Kids", Toyor Aljanah YT
-https://raw.githubusercontent.com/hammedcrack/StreamsToM3U8/main/streams0.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1712588967/ei/R7QTZp7RBdWM_9EP98eY6AY/ip/20.55.214.245/id/AUX4Z5fryNY.14/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51129853/txs/51129847%2C51129848%2C51129849%2C51129850%2C51129851%2C51129852%2C51129853/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9fxOTKxZZbt4-AKtI__Rre5-UxtLj2HpgQsNZf6F8F38Qol-MtWvObg/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/51141541/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgYMuyeL_aivOIj_GovlBYoYrw_5lEfb6hPVgjfdeMY9ECIQC4R_gW4ElioGW13UVoLj_y3NJD-DNLfhd4XvE4WKQi2g%3D%3D/file/index.m3u8
