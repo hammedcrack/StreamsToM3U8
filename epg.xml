@@ -2,11 +2,6 @@
   <channel id="ToyorAljanah.yt">
     <display-name lang="en">Toyor Aljanah Live</display-name>
   </channel>
-  <programme channel="ToyorAljanah.yt" start="20240518180000 +0100" stop="20240518210000 +0100">
-    <title lang="en">طيور الجنة مباشر - Toyor Aljanah Live</title>
-    <desc lang="en">- يمكنكم مشاهدتنا عبر مدار  نايلسات 11258 أفقي | معدل الترميز: 27500 | معامل التصحيح: 5/6- تابعوا مجموعة قنوات طيور الجنة علي يوتيوب : * طيور الجنة : https:/...</desc>
-    <icon src="https://i.ytimg.com/vi/R8lfZSbJ3f8/maxresdefault_live.jpg"/>
-  </programme>
   <programme channel="ToyorAljanah.yt" start="20240518210000 +0100" stop="20240519000000 +0100">
     <title lang="en">طيور الجنة مباشر - Toyor Aljanah Live</title>
     <desc lang="en">- يمكنكم مشاهدتنا عبر مدار  نايلسات 11258 أفقي | معدل الترميز: 27500 | معامل التصحيح: 5/6- تابعوا مجموعة قنوات طيور الجنة علي يوتيوب : * طيور الجنة : https:/...</desc>
@@ -38,6 +33,11 @@
     <icon src="https://i.ytimg.com/vi/R8lfZSbJ3f8/maxresdefault_live.jpg"/>
   </programme>
   <programme channel="ToyorAljanah.yt" start="20240519150000 +0100" stop="20240519180000 +0100">
+    <title lang="en">طيور الجنة مباشر - Toyor Aljanah Live</title>
+    <desc lang="en">- يمكنكم مشاهدتنا عبر مدار  نايلسات 11258 أفقي | معدل الترميز: 27500 | معامل التصحيح: 5/6- تابعوا مجموعة قنوات طيور الجنة علي يوتيوب : * طيور الجنة : https:/...</desc>
+    <icon src="https://i.ytimg.com/vi/R8lfZSbJ3f8/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="ToyorAljanah.yt" start="20240519180000 +0100" stop="20240519210000 +0100">
     <title lang="en">طيور الجنة مباشر - Toyor Aljanah Live</title>
     <desc lang="en">- يمكنكم مشاهدتنا عبر مدار  نايلسات 11258 أفقي | معدل الترميز: 27500 | معامل التصحيح: 5/6- تابعوا مجموعة قنوات طيور الجنة علي يوتيوب : * طيور الجنة : https:/...</desc>
     <icon src="https://i.ytimg.com/vi/R8lfZSbJ3f8/maxresdefault_live.jpg"/>
